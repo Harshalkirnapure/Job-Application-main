@@ -99,7 +99,7 @@ const Login = ()=>{
          <br />
 
          <p className='text-danger'>{ allValues.errorMsg}</p>
-         <p className ='text-danger'> user: rahul , password:rahul@2021</p>
+         <p className ='text-primary'> credentials { user:rahul , password:rahul@2021 }</p>
 
        </div>
     )
